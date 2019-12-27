@@ -87,8 +87,6 @@ fetch("http://localhost:3000/poll")
           }
         });
         chart.render();
-
       });
     }
-
   });
